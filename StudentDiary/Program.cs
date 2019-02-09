@@ -10,6 +10,12 @@ namespace StudentDiary
     {
         static void Main(string[] args)
         {
+            Diary diary = new Diary();
+            diary.AddRating(5);
+            Console.WriteLine(diary.CalculateAverage());
+            Console.WriteLine(diary.CalculateAverage());
+            Console.WriteLine(diary.GiveMaxRating());
+            Console.WriteLine(diary.GiveMinRating());
         }
     }
 }
