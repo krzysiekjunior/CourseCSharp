@@ -8,8 +8,13 @@ namespace StudentDiary
 {
     class Diary
     {
+        public Diary()
+        {
+            ratings = new List<float>();
+        }
+
         //Stan (zmienne - pola)
-        List<float> ratings = new List<float>();                //lista ocen
+        List<float> ratings;              //lista ocen
 
 
         //Zachowania
