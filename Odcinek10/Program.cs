@@ -20,6 +20,9 @@ namespace Odcinek10
             Diary diary3 = diary2;
             diary3.AddRating(1);
 
+            diary.AddRating(3);
+            diary.AddRating(9);
+
             int liczba = 1;                     // zmienna typu prostego "liczba" przechwuje wartość(liczbę)
         }
     }
