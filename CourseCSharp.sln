@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDiaryOdc12", "Studen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDiaryOdc13", "StudentDiaryOdc13\StudentDiaryOdc13.csproj", "{0029AB24-B109-4422-A11C-52D7549D79B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDiaryOdc14", "StudentDiaryOdc14\StudentDiaryOdc14.csproj", "{066D157F-D1EA-4B5B-A98D-C7F5DF25BF1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0029AB24-B109-4422-A11C-52D7549D79B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0029AB24-B109-4422-A11C-52D7549D79B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0029AB24-B109-4422-A11C-52D7549D79B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066D157F-D1EA-4B5B-A98D-C7F5DF25BF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066D157F-D1EA-4B5B-A98D-C7F5DF25BF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066D157F-D1EA-4B5B-A98D-C7F5DF25BF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066D157F-D1EA-4B5B-A98D-C7F5DF25BF1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
